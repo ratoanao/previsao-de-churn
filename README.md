@@ -8,7 +8,7 @@ Os dados que eu usei neste projeto foram obtidos do [Kaggle], uma plataforma onl
 ## **Instalação**
 Para executar este projeto, você precisa ter instalado em sua máquina os seguintes programas:
 
-[Python], uma linguagem de programação interpretada e de alto nível.
+['''Python'''], uma linguagem de programação interpretada e de alto nível.
 
 [Jupyter Notebook], uma aplicação web que permite criar e compartilhar documentos que contêm código, texto e gráficos.
 
