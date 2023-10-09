@@ -9,8 +9,15 @@ Os dados que eu usei neste projeto foram obtidos do [Kaggle], uma plataforma onl
 Para executar este projeto, você precisa ter instalado em sua máquina os seguintes programas:
 
 [Python], uma linguagem de programação interpretada e de alto nível.
+
 [Jupyter Notebook], uma aplicação web que permite criar e compartilhar documentos que contêm código, texto e gráficos.
+
 [Pandas], uma biblioteca Python que oferece estruturas e ferramentas de análise de dados.
-[NumPy], uma biblioteca Python que oferece suporte para arrays e matrizes multidimensionais, além de funções matemáticas de alto nível.
-[Scikit-learn], uma biblioteca Python que oferece ferramentas para aprendizado de máquina, como algoritmos de classificação, regressão, clusterização, etc.
+
+[NumPy], uma biblioteca Python que oferece suporte para arrays e matrizes multidimensionais, além de funções 
+matemáticas de alto nível.
+
+[Scikit-learn], uma biblioteca Python que oferece ferramentas para aprendizado de máquina, como algoritmos de
+classificação, regressão, clusterização, etc.
+
 [Matplotlib], uma biblioteca Python que oferece recursos para a criação de gráficos e visualizações de dados.
