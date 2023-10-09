@@ -1,5 +1,5 @@
 # **Previsão de Churn**
-##Descrição
+## **Descrição**
 Neste projeto, eu aprendi como resolver problemas de classificação usando diferentes técnicas e modelos, como KNN, Naive Bayes e Árvore de Decisão. Como analisar e balancear os dados, como validar os modelos e como escolher a melhor métrica para cada caso. O objetivo era reduzir o índice de churn, ou seja, a taxa de evasão dos clientes. E para isso tive que usar os dados dos clientes para prever se eles iriam cancelar ou não o serviço, e assim ajudar a equipe de vendas a tomar as melhores decisões.
 
 ## **Dados**
